@@ -1,0 +1,10 @@
+# Ignorar a pasta node_modules
+node_modules/
+
+# Ignorar o arquivo package-lock.json
+package-lock.json
+
+# Ignorar o arquivo package.json
+package.json
+
+# Outras regras podem ser adicionadas aqui
